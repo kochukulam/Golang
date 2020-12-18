@@ -1,0 +1,15 @@
+package main 
+  
+import "fmt"
+  
+func main() {
+a := [5]int{1,2,3}
+fmt.Println("The elements of array are: ")
+
+for i:=0; i <len(a); i++{
+	fmt.Println("The counter value for", i ,"is", a[i])
+}
+
+
+}
+  
