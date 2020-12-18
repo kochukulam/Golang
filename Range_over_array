@@ -10,3 +10,10 @@ func main() {
 		fmt.Println("At Index", index, "value is", elements)
 	}
 }
+
+Output:
+[Messi Ronaldo Fletcher]
+At Index 0 value is Messi
+At Index 1 value is Ronaldo
+At Index 2 value is Fletcher
+
