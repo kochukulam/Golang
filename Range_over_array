@@ -1,0 +1,12 @@
+package main 
+  
+import "fmt"
+  
+func main() {
+	arr := [3]string{"Messi","Ronaldo","Fletcher"}
+	fmt.Println(arr)
+
+	for index, elements := range arr{
+		fmt.Println("At Index", index, "value is", elements)
+	}
+}
