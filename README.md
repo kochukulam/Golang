@@ -13,4 +13,5 @@ ____________________________________________
 Go has Just one looping construct: For Loop.
 Consist of 3 components:
 init statement, the condition expression, Post statement
+
 If you omit the loop condition it loops forever.
