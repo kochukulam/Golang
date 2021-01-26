@@ -1,0 +1,12 @@
+package main
+
+import (
+	"fmt"
+)
+
+// Prints 10 number as per For Loop
+func main() {
+	for a := 1; a < 11; a++ {
+		fmt.Println(a)
+	}
+}
